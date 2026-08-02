@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+pdf2image
+pillow
+requests
+scikit-learn
+sentence-transformers
+faiss-cpu
+datasets
