@@ -1,0 +1,8 @@
+streamlit
+langgraph
+faiss-cpu
+sentence-transformers
+networkx
+wikipedia
+numpy
+requests

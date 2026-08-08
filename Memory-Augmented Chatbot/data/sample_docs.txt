@@ -1,0 +1,15 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines a retriever and a language model. The retriever finds relevant chunks of text from a knowledge base, and the language model uses that text as context to generate an answer.
+
+A knowledge graph stores information as entities and relationships, for example (Python, is_a, programming_language). Knowledge graphs are useful for structured, relational queries that vector search alone cannot answer well.
+
+FAISS is a library developed by Meta for fast similarity search over dense vectors. It is commonly used as a local, free vector database for RAG systems.
+
+LangGraph is a framework for building stateful, multi-step LLM applications as graphs of nodes. Each node can call a tool, a retriever, or the model itself, and edges define how control moves between them.
+
+Long-term memory in a chatbot means storing facts about a user across sessions, such as their name, preferences, or past questions, so future responses can be personalized.
+
+Sentence-transformers is a Python library for creating dense vector embeddings of text, commonly used together with FAISS for semantic search.
+
+Neo4j is a popular graph database, but for small local projects a lightweight in-memory graph library like NetworkX can serve the same purpose without extra setup.
+
+Wikipedia's public API can be used to fetch up-to-date summaries of topics without needing an API key, making it a good example of a free dynamic data tool.

@@ -1,0 +1,30 @@
+{
+  "aaryan": {
+    "facts": [
+      "prefers concise answers",
+      "is a data science student"
+    ],
+    "history": [
+      {
+        "question": "What is Retrieval-Augmented Generation?",
+        "answer": "Retrieval-Augmented Generation (RAG) is a technique that combines a retriever (which finds relevant chunks of text from a knowledge base) with a language model (which uses the retrieved text as context to generate an answer)."
+      },
+      {
+        "question": "What is FAISS used for?",
+        "answer": "FAISS is used for fast similarity search over dense vectors, commonly in Retrieval-Augmented Generation (RAG) systems."
+      },
+      {
+        "question": "Who is the current president of the United States?",
+        "answer": "I don't have real-time information on who the current President of the United States is. However, I can tell you that my knowledge cutoff is December 2023, and the previous president's term ended on January 20, 2021."
+      },
+      {
+        "question": "What kind of projects would suit me?",
+        "answer": "As a data science student, you may enjoy building projects that involve:\n\n1. Knowledge graph applications: utilizing LangGraph for LLM-based knowledge graphs.\n2. Text summarization: leveraging Wikipedia's public API to fetch summaries of topics.\n3. Graph analysis: working with lightweight in-memory graph libraries like NetworkX.\n\nThese projects align with your interests and skills, making them suitable for you."
+      },
+      {
+        "question": "How does NetworkX compare to Neo4j as a knowledge graph?",
+        "answer": "NetworkX and Neo4j can serve similar purposes as knowledge graphs, but differ in scope and complexity:\n\n*   **Weight:** NetworkX is a lightweight, in-memory library ideal for small local projects.\n*   **Complexity:** Neo4j is a full-fledged graph database better suited for large-scale applications requiring more advanced features."
+      }
+    ]
+  }
+}
