@@ -4,7 +4,7 @@
 
 ## 📄 Contents
 
-- [`week1_aaryan.ipynb`](./week1_Aaryan_Pawar.ipynb) — full notebook with all six parts completed and passing.
+- [`week1_Aaryan_Pawar.ipynb`](./week1_Aaryan_Pawar.ipynb) — full notebook with all six parts completed and passing.
 
 ## 📝 What's Inside
 
